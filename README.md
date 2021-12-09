@@ -1,5 +1,3 @@
-# NexonLv1GothicLow
-
 # 넥슨 Lv.1 고딕체(NexonLv1GothicLow) 저용량
 
 <a href="https://wess.tistory.com" target="_blank">
